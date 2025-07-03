@@ -126,7 +126,7 @@ const App: React.FC = () => {
       </main>
       
       <footer className="text-center text-slate-500 text-sm mt-12">
-        <p>&copy; {new Date().getFullYear()} Kalkulator Konversi. Dibuat dengan React & Tailwind CSS. | by <a href="https://thoha.my.id" target="_blank">Thoha Firdaus</a></p>
+        <p>&copy; {new Date().getFullYear()} Kalkulator Konversi Bilangan | Dibuat oleh <a href="https://thoha.my.id" target="_blank">Thoha Firdaus</a></p>
       </footer>
     </div>
   );
